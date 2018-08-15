@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: August 14th, 2018 (Recommitment Day)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Created landing page for the TET Program for Tecmie.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I really struggled with layout inspirations that had to be quick and fast.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Tecmie TETP](https://tet.tecmie.com)
+
+
+### Day 2: August 15th, 2018 (Missing Persons)
+
+**Today's Progress**: Creating the Frontend Layout of the Missing Persons Project in ReactJS.
+
+**Thoughts:** Struggling with grasping the react architecture again, would soon get router and states right soon.
+
+**Link to work:** [Missing Persons](https://github.com/koolamusic/mpa-react)
+
+
