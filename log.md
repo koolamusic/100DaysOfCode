@@ -2,7 +2,7 @@
 
 
 
-### Day 1: August 14th, 2018 (Recommitment Day)
+### Day 0: August 14th, 2018 (Recommitment Day)
 
 **Today's Progress**: Created landing page for the TET Program for Tecmie.
 
@@ -11,7 +11,7 @@
 **Link to work:** [Tecmie TETP](https://tet.tecmie.com)
 
 
-### Day 2: August 15th, 2018 (Missing Persons)
+### Day 1: August 15th, 2018 (Missing Persons)
 
 **Today's Progress**: Creating the Frontend Layout of the Missing Persons Project in ReactJS.
 
@@ -20,7 +20,7 @@
 **Link to work:** [Missing Persons](https://github.com/koolamusic/mpa-react)
 
 
-### Day3: August 16th, 2018 (Missing Persons)
+### Day 2: August 16th, 2018 (Missing Persons)
 
 **Today's Progress**: Still working on the fronted for the MPA Project in React
 
@@ -33,4 +33,45 @@ but as we move ahead, I will get to find out.
 **Link to work:** [Missing Persons](https://github.com/koolamusic/mpa-react)
 
 
+
+### Day 3: August 17th
+
+**Today's Progress**: Completed major page layouts for the Missing Persons Project and deployed git repo to now.sh
+
+**Thoughts:** deploying react projects is a funny puzzle, various options exists, now happened to be the easiest build and deploy tool though
+
+**Link to work:** [MPA Frontend](https://mpa-dxadsepkqm.now.sh)
+
+
+
+
+### Day 4: August 18th
+
+**Today's Progress:** Today is saturday, not much code to write because of other household stuff, initialized page design for the senderon telegram community
+
+**Thoughts:** frontend projects kinda help me relax, which is cool, didnt learn anything today so i just coded.
+
+**Link to work:** [senderon](https://github.com/koolamusic/snderon)
+
+
+
+
+### Day 5: August 19th 
+
+**Today's Progress:** continued my sprint on senderon today, created four page screens, home, register, signup, reset password
+
+**Thoughts:** discovered the surge.sh network, great for deploying static sites from the terminal, actually very easy and lovely
+
+**Link to work:** [https://sdrn.surge.sh](https://sdrn.surge.sh)
+
+
+
+
+### Day 6: August 20th
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** 
 
