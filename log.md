@@ -69,9 +69,20 @@ but as we move ahead, I will get to find out.
 
 ### Day 6: August 20th
 
+**Today's Progress:** Took sometime to look into (un)-ethical hacking, the topic is so much fun generally and i love it,  
+
+**Thoughts:** i took sometime to read about google dorks, LFI and RFI, these techniques are prevalent in exploiting vulns in most php based websites. shell scripts to mention C9Shell, I took sometime browsing github for repos that had some decoded versions of this scripts to see and learn how they work, which is really elighntening, i however am not planning to hack anysite but i came across this project from Simone Masiero that makes you look like a cool hacker, which i deployed on a github page
+
+**Link to work:** [Hack the Central Bank](https://koolamusic.github.io/hackertyper)
+
+
+
+### Day 7: August 21th
+
+
 **Today's Progress:** 
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:** 
+**Link to work:**
 
