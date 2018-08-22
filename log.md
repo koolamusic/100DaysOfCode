@@ -11,6 +11,7 @@
 **Link to work:** [Tecmie TETP](https://tet.tecmie.com)
 
 
+
 ### Day 1: August 15th, 2018 (Missing Persons)
 
 **Today's Progress**: Creating the Frontend Layout of the Missing Persons Project in ReactJS.
@@ -18,6 +19,7 @@
 **Thoughts:** Struggling with grasping the react architecture again, would soon get router and states right soon.
 
 **Link to work:** [Missing Persons](https://github.com/koolamusic/mpa-react)
+
 
 
 ### Day 2: August 16th, 2018 (Missing Persons)
@@ -77,10 +79,23 @@ but as we move ahead, I will get to find out.
 
 
 
+
 ### Day 7: August 21th
 
 
-**Today's Progress:** 
+**Today's Progress:** I didn't really code much today, had quite a lot of work to do and music related stuff
+
+**Thoughts:** had quite some thoughts on how much can be achieved using the linux bash, so I have assigned myself a new challenge to create a bash script that can send html newsletters (challenge accepted)
+
+**Link to work:** [100DaysOfCode](https://github.com/koolamusic/100-days-of-code)
+
+
+
+
+### Day 7: August 21th
+
+
+**Today's Progress:**
 
 **Thoughts:**
 
