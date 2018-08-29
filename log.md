@@ -92,12 +92,14 @@ but as we move ahead, I will get to find out.
 
 
 
-### Day 7: August 21th
+### Day 7-14: August 21th - August 28th
 
 
-**Today's Progress:**
+**Today's Progress:** have been quite busy with a lot to keep up my logs, but have always pushed code and tracked with github
 
-**Thoughts:**
+**Thoughts:** explored git webhooks, some more penetration testing (discovered some vulns in dotFiles that can be retrieved from external resources like git/HEAD/logs | etc) diving deeper into react, make meself a master lol. some php hacking and automation using bash, invoking shell commmands using php shell_exec() can be easy, but i am worried about security concerns though, found ways to mitigate having exposed dotfiles on the server. 
 
-**Link to work:**
+**Link to work:** [git webhooks for autodeployment](https://gist.github.com/koolamusic/e79edf06d42165edfbfd988d75990516), [htaccess code to mitigate detection of dotFiles](https://gist.github.com/koolamusic/e30e03f4999003d6efee6e8e53bca1e0)
+
+
 
