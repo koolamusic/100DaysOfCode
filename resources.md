@@ -2,7 +2,19 @@
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
+## Coding Books
+
+1. "Professional Node.js" by Teixeira
+2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
+3. "Mastering JavaScript" by Ved Antani
+4. "You dont know Javascript" **Kyle Simpson**
+5. Pragmatic Guide to Git **Travis Swicegood**
+6. Pro MERN Stack  **Pakt Publishing**
+7. React Design Patterns and Best Practice **Michele Bertoli**
+8. React 16 Essentials **Pakt Publishing**
+
 ### Articles
+
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
@@ -29,12 +41,11 @@
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
-### Coding
-1. "Professional Node.js" by Teixeira
-2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
-3. "Mastering JavaScript" by Ved Antani
+
+
 
 ## Contents
+
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)

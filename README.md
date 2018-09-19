@@ -1,5 +1,15 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Coding Books
+
+1. "Professional Node.js" by Teixeira
+2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
+3. "Mastering JavaScript" by Ved Antani
+4. "You dont know Javascript" **Kyle Simpson**
+5. Pragmatic Guide to Git **Travis Swicegood**
+6. Pro MERN Stack  **Pakt Publishing**
+7. React Design Patterns and Best Practice **Michele Bertoli**
+8. React 16 Essentials **Pakt Publishing**
 
 ## Contents
 
@@ -7,8 +17,6 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
-
-
 
 ## If you've decided to join:
 
@@ -24,8 +32,6 @@
 1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
 1.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 1.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
-
-
 
 ## Note
 
