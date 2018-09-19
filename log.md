@@ -3,7 +3,9 @@
 ## Day 0: August 14th, 2018 (Recommitment Day)
 
 **Today's Progress**: Created landing page for the TET Program for Tecmie.
+
 **Thoughts:** I really struggled with layout inspirations that had to be quick and fast.
+
 **Link to work:** [Tecmie TETP](https://tet.tecmie.com)
 
 ### Day 1: August 15th, 2018 (Missing Persons)
