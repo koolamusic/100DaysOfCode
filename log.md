@@ -88,3 +88,33 @@ have concerns about server-side rendering for the sake of SEO, I will have to ta
 **Thoughts:** Learning interacting with the MongoDB database using the npm mongoose package, mongoose validation and validation with joi, POST, GET, and working with POSTMAN to test API endpoints in express. while trying to implement this over an existing react project has not been successful, I think I'll take it a bit slow and try working with node APIs in a much easier method. dealing with mongoose sinks in perfectly well.
 
 **Link to work:** [Mongoose Lab Projects](https://github.com/koolamusic/mongolab)
+
+### Day 36 : September 19th
+
+**Week's Progress:** ELOQUENT JAVASCRIPT
+
+**Thoughts:** Decided to read a javascript book, and the eloquent js book comes in very high light, I have covered chapter one and compiled my summary in this markdown file
+
+**Link to work:** [Eloquent Javascript Chapter One Summary](https://github.com/koolamusic/passive/blob/master/eloquent_js/chapter_one.md)
+
+
+### Day 37 : September 20th
+
+**Week's Progress:** Algorithms, Online Articles, EloquentJS
+
+**Thoughts:** https://www.codementor.io/frugencefidel/10-javascript-string-methods-you-should-know-nbdssqepb
+```js
+// endsWith()
+// startsWith()
+// includes()
+// replace()
+// repeat()
+
+const str = 'Javascript is amazing';
+ str.replace(/a/ig, 'Be')
+"JBevBeScript is BemBezing"
+// str.replace does not store its value in memory.
+```
+
+
+**Link to work:** 
