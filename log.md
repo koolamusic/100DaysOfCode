@@ -116,5 +116,17 @@ const str = 'Javascript is amazing';
 // str.replace does not store its value in memory.
 ```
 
-
 **Link to work:** 
+
+
+
+
+### Day 38 : September 21
+
+**Week's Progress:** ELOQUENT JAVASCRIPT CHAPTER TWO
+
+**Thoughts:** 
+
+**Link to work:** [Eloquent Javascript Chapter Two Summary](https://github.com/koolamusic/passive/blob/master/eloquent_js/chapter_two.md)
+
+
